@@ -61,7 +61,7 @@ NativeScript plugins should support all the technologies that NativeScript offic
 
 <br>
 
-### 4. The demo app has been built successfully (with latest official {N} version) for iOS version 10.x.
+### 4. The demo app has been built successfully (with latest official {N} version) for the latest available iOS version (currently 11.x).
 
 #### Motivation
 
@@ -73,13 +73,13 @@ The successful building of your demo application is clear sign that your plugin 
 
 <br>
 
-### 5. The demo app has been built successfully (with latest official {N} version) for Android API Level 25.
+### 5. The demo app has been built successfully (with latest official {N} version) for the latest available Android API Level (currently 26).
 
 #### [Documentation](http://docs.nativescript.org/plugins/ensure-plugins-quality#checking-in-application-built-for-android-and-ios)
 
 <br>
 
-### 6. The demo app has been bundled (webpack) and built successfully (with latest official {N} version) for iOS version 10.x. 
+### 6. The demo app has been bundled (webpack) and built successfully (with latest official {N} version) for the latest available iOS version (currently 11.x). 
 >Note: Uglify option is required `npm run ns-bundle --ios --build-app --uglify`
 
 #### Motivation
@@ -92,7 +92,7 @@ webpack (AOT) is the key tool that makes the NativeScript Angular application fa
 
 <br>
 
-### 7. The demo app has been bundled (webpack) and built successfully (with latest official {N} version) for Android API Level 25. 
+### 7. The demo app has been bundled (webpack) and built successfully (with latest official {N} version) for the latest available Android API Level (currently 26). 
 >Note: Uglify option is required `npm run ns-bundle --android --build-app --uglify`
 
 #### [Documentation](http://docs.nativescript.org/plugins/ensure-plugins-quality#checking-in-bundled-nativescript-applications)
