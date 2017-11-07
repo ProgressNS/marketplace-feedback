@@ -25,7 +25,7 @@ Each criterion has 3 attributes:
 
 <br>
 
-### 1. The plugin has been transpiled successfully (tsc) (For TypeScript plugins).
+### 1. The plugin has been transpiled successfully (tsc) and tslint checks have passed (For TypeScript plugins).
 
 #### Motivation
 NativeScript plugin is installed in application as JavaScript package. It is critical to have the TypeScript successfully transpiled to JavaScript.
