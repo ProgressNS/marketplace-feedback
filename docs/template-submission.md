@@ -1,4 +1,4 @@
-## How to Show Your App Template to Marketplace?
+## How to Submit Your App Template to the NativeScript Marketplace?
 
 * Do publish your app template to npm (https://www.npmjs.com/) using **tns-template-[custom-template-name-goes-here]** format for the npm package name.
 
