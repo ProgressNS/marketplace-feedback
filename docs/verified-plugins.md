@@ -80,7 +80,9 @@ The successful building of your demo application is clear sign that your plugin 
 <br>
 
 ### 6. The demo app has been bundled (webpack) and built successfully (with latest official {N} version) for the latest available iOS version (currently 11.x). 
->Note: Uglify option is required `npm run ns-bundle --ios --build-app --uglify`
+>Note: Uglify option is required `tns build ios --bundle --env.uglify`
+
+>Note: AOT and unglify options are both required for angular apps `tns build ios --bundle --env.uglify --env.aot`
 
 #### Motivation
 
@@ -93,7 +95,9 @@ webpack (AOT) is the key tool that makes the NativeScript Angular application fa
 <br>
 
 ### 7. The demo app has been bundled (webpack) and built successfully (with latest official {N} version) for the latest available Android API Level (currently 26). 
->Note: Uglify option is required `npm run ns-bundle --android --build-app --uglify`
+>Note: Uglify option is required `tns build android --bundle --env.uglify`
+
+>Note: AOT and unglify options are both required for angular apps `tns build android --bundle --env.uglify --env.aot`
 
 #### [Documentation](http://docs.nativescript.org/plugins/ensure-plugins-quality#checking-in-bundled-nativescript-applications)
 
@@ -164,7 +168,7 @@ The Verified Plugins Recommendations outline best practices that is going to be 
 #### 6. Dev dependencies are not added as dependencies.
 #### 7. For dev plugins (such as [nativescript-dev-webpack](https://github.com/NativeScript/nativescript-dev-webpack)) - make sure demo runs when it is started with --path.
 #### 8. Make sure you have "nativescript" property in plugin's package.json that correctly specifies the platforms the plugin supports. [Read more](http://docs.nativescript.org/plugins/plugin-reference#packagejson-specification)
-#### 9. Test whether the demo application can be snapshotted `npm run ns-bundle --android --build-app --uglify --snapshot`
+#### 9. Test whether the demo application can be snapshotted `tns build android --bundle --env.uglify --env.aot --env.snapshot`
 
 <br>
 
