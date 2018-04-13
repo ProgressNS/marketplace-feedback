@@ -5,4 +5,4 @@
 
   ### Features:
     Added new verified plugin - nativescript-telerik-reporting
-    Implemented templates categories. https://github.com/NativeScript/marketplace-feedback/issues/107
+    Implemented templates categories. [https://github.com/NativeScript/marketplace-feedback/issues/107](https://github.com/NativeScript/marketplace-feedback/issues/107)
