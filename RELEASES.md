@@ -1,5 +1,11 @@
 # Releases
 
+# 2018-05-23 Samples
+
+  ### Features:
+ -  Added new page in the marketplace - Community samples
+
+
 
 # 2018-04-13 Template categories
 
