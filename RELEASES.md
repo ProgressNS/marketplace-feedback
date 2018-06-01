@@ -1,5 +1,11 @@
 # Releases
 
+# 2018-06-01 Samples
+
+  ### Features:
+ -  Support gifs
+ -  Add Samples to Authors details page 
+
 # 2018-05-23 Samples
 
   ### Features:
