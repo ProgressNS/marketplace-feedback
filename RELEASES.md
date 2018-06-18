@@ -1,5 +1,15 @@
 # Releases
 
+# 2018-06-18 
+
+  ### Features:
+ -  Playground Samples - support ordering
+ -  Consent for Preview templates
+ -  Fallback to something like homepage/bugs when searching for the GitHub repository of a plugin
+ -  Playground Samples - add analytics to track user actions regarding templates and samples
+ -  Show correct command for dev plugins
+ -  Playground Samples - multiple url params support for tabs selection
+
 # 2018-06-01 Samples
 
   ### Features:
