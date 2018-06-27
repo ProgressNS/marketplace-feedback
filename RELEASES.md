@@ -1,5 +1,15 @@
 # Releases
 
+# 2018-06-27 
+
+  ### Features:
+  -  [Playground Samples - flavours pop up](https://github.com/NativeScript/marketplace-feedback/issues/132)
+ 
+  ### Fixes:
+  - Home button navigation on template details
+  - Error handling
+  - Ordering by order and name
+
 # 2018-06-18 
 
   ### Features:
