@@ -1,5 +1,16 @@
 # Releases
 
+# 2018-07-23 
+
+  ### Features:
+  - Add webpack badge. The market site will try to build every plugin with webpack and enable the badge if the build succeeds.
+  
+  ### Fixes:
+  - Plugin names should be case sensitive. Fix add command text when plugin has uppercase letters in its name.
+  - Show only one flavor per template in author details page. Merge Angular/TS/JS flavors of the same template into a single
+  entry in the author details page.
+
+
 # 2018-06-27 
 
   ### Features:
