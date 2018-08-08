@@ -1,5 +1,13 @@
 # Releases
 
+# 2018-08-08 
+
+  ### Features:
+  - Nativescript-photo-editor plugin is now verified
+  
+  ### Fixes:
+  - Download stats not updated daily
+
 # 2018-07-23 
 
   ### Features:
