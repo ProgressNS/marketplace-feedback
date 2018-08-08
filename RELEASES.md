@@ -6,7 +6,7 @@
   - Nativescript-photo-editor plugin is now verified
   
   ### Fixes:
-  - Download stats not updated daily
+  - Download stats are now updated daily
 
 # 2018-07-23 
 
