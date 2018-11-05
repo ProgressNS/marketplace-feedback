@@ -1,5 +1,14 @@
 # Releases
 
+# 2018-11-05
+
+  ### Features:
+  - New request form for data removal in the privacy policy page.
+  - Enable compression in the API to reduce the network traffic on the machines and speed-up the client requests
+  
+  ### Fixes:
+  - The verified number on authors details page is showing wrong count
+
 # 2018-08-08 
 
   ### Features:
