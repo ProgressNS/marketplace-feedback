@@ -1,5 +1,14 @@
 # Releases
 
+# 2019-01-22
+
+  ### Features:
+  - New dynamic badges for Vue and Angular support
+  
+  ### Fixes:
+  - Searching plugins by string and keyword is now fixed
+
+
 # 2018-11-05
 
   ### Features:
