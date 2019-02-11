@@ -11,8 +11,8 @@ That's it! Sounds too brief? OK. Here are some pages that will guide you through
 
 - [What are NativeScript plugins?](https://docs.nativescript.org/plugins/plugin-reference)
 - Create your plugin structure
-- [With NativeScript plugin seed](https://docs.nativescript.org/plugins/building-plugins#step-1-start-your-plugin)
-- [With tns plugin create command](https://docs.nativescript.org/tooling/docs-cli/lib-management/plugin-create)
+  - [With NativeScript plugin seed](https://docs.nativescript.org/plugins/building-plugins#step-1-start-your-plugin)
+  - [With tns plugin create command](https://docs.nativescript.org/tooling/docs-cli/lib-management/plugin-create)
 - [Set up a development workflow](https://docs.nativescript.org/plugins/building-plugins#step-2-set-up-a-development-workflow)
 - [Write your plugin](https://docs.nativescript.org/plugins/building-plugins#step-3-write-your-plugin)
 - [Publish your plugin](https://docs.nativescript.org/plugins/building-plugins#step-4-publish-your-plugin)
